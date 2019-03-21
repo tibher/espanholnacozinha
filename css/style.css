@@ -1,0 +1,20 @@
+/*!
+ * Start Bootstrap - Modern Business (https://startbootstrap.com/template-overviews/modern-business)
+ * Copyright 2013-2019 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-logomodern-business-nav/blob/master/LICENSE)
+ */
+body {
+  font-family: 'Satisfy', 'Open Sans', sans-serif;
+  color: #999;
+  padding-top: 56px;
+}
+.header-red{
+	background-color: rgba(255,0,0,.8) !important;
+}
+.header-menu{
+  font-size: 18px;
+}
+
+.portfolio-item {
+  margin-bottom: 30px;
+}
